@@ -1,0 +1,473 @@
+{
+  "version": 2,
+  "dgSpecHash": "jnaWivvUnuL6/EGnFsWawSQ7va8EaPIqFrrt6YirarAAlfxP8SQKrBgebAHwU6cwzmWQzyZtcEW7pxKPkVA+qg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Moustapha\\source\\repos\\MyMauiApp\\MyMauiApp\\MyMauiApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Dependencies introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Dependencies",
+      "targetGraphs": [
+        "net6.0-android31.0",
+        "net6.0-android31.0/android-arm",
+        "net6.0-android31.0/android-arm64",
+        "net6.0-android31.0/android-x64",
+        "net6.0-android31.0/android-x86",
+        "net6.0-android31.0/iossimulator-x64",
+        "net6.0-android31.0/maccatalyst-x64",
+        "net6.0-android31.0/win10-x64",
+        "net6.0-ios16.1",
+        "net6.0-ios16.1/android-arm",
+        "net6.0-ios16.1/android-arm64",
+        "net6.0-ios16.1/android-x64",
+        "net6.0-ios16.1/android-x86",
+        "net6.0-ios16.1/iossimulator-x64",
+        "net6.0-ios16.1/maccatalyst-x64",
+        "net6.0-ios16.1/win10-x64",
+        "net6.0-maccatalyst16.1",
+        "net6.0-maccatalyst16.1/android-arm",
+        "net6.0-maccatalyst16.1/android-arm64",
+        "net6.0-maccatalyst16.1/android-x64",
+        "net6.0-maccatalyst16.1/android-x86",
+        "net6.0-maccatalyst16.1/iossimulator-x64",
+        "net6.0-maccatalyst16.1/maccatalyst-x64",
+        "net6.0-maccatalyst16.1/win10-x64",
+        "net6.0-windows10.0.19041",
+        "net6.0-windows10.0.19041/android-arm",
+        "net6.0-windows10.0.19041/android-arm64",
+        "net6.0-windows10.0.19041/android-x64",
+        "net6.0-windows10.0.19041/android-x86",
+        "net6.0-windows10.0.19041/iossimulator-x64",
+        "net6.0-windows10.0.19041/maccatalyst-x64",
+        "net6.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Extensions introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Extensions",
+      "targetGraphs": [
+        "net6.0-android31.0",
+        "net6.0-android31.0/android-arm",
+        "net6.0-android31.0/android-arm64",
+        "net6.0-android31.0/android-x64",
+        "net6.0-android31.0/android-x86",
+        "net6.0-android31.0/iossimulator-x64",
+        "net6.0-android31.0/maccatalyst-x64",
+        "net6.0-android31.0/win10-x64",
+        "net6.0-ios16.1",
+        "net6.0-ios16.1/android-arm",
+        "net6.0-ios16.1/android-arm64",
+        "net6.0-ios16.1/android-x64",
+        "net6.0-ios16.1/android-x86",
+        "net6.0-ios16.1/iossimulator-x64",
+        "net6.0-ios16.1/maccatalyst-x64",
+        "net6.0-ios16.1/win10-x64",
+        "net6.0-maccatalyst16.1",
+        "net6.0-maccatalyst16.1/android-arm",
+        "net6.0-maccatalyst16.1/android-arm64",
+        "net6.0-maccatalyst16.1/android-x64",
+        "net6.0-maccatalyst16.1/android-x86",
+        "net6.0-maccatalyst16.1/iossimulator-x64",
+        "net6.0-maccatalyst16.1/maccatalyst-x64",
+        "net6.0-maccatalyst16.1/win10-x64",
+        "net6.0-windows10.0.19041",
+        "net6.0-windows10.0.19041/android-arm",
+        "net6.0-windows10.0.19041/android-arm64",
+        "net6.0-windows10.0.19041/android-x64",
+        "net6.0-windows10.0.19041/android-x86",
+        "net6.0-windows10.0.19041/iossimulator-x64",
+        "net6.0-windows10.0.19041/maccatalyst-x64",
+        "net6.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package System.Runtime.InteropServices.NFloat.Internal introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.Runtime.InteropServices.NFloat.Internal",
+      "targetGraphs": [
+        "net6.0-ios16.1",
+        "net6.0-ios16.1/android-arm",
+        "net6.0-ios16.1/android-arm64",
+        "net6.0-ios16.1/android-x64",
+        "net6.0-ios16.1/android-x86",
+        "net6.0-ios16.1/iossimulator-x64",
+        "net6.0-ios16.1/maccatalyst-x64",
+        "net6.0-ios16.1/win10-x64",
+        "net6.0-maccatalyst16.1",
+        "net6.0-maccatalyst16.1/android-arm",
+        "net6.0-maccatalyst16.1/android-arm64",
+        "net6.0-maccatalyst16.1/android-x64",
+        "net6.0-maccatalyst16.1/android-x86",
+        "net6.0-maccatalyst16.1/iossimulator-x64",
+        "net6.0-maccatalyst16.1/maccatalyst-x64",
+        "net6.0-maccatalyst16.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Ref.android introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Ref.android",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Android.Runtime.31.android-x86 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Android.Runtime.31.android-x86",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Ref.android introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Ref.android",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Runtime.android introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Runtime.android",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Android.Runtime.31.android-x64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Android.Runtime.31.android-x64",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Android.Runtime.31.android-arm64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Android.Runtime.31.android-arm64",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Runtime.android introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.android",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.App.Runtime.linux-arm introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Ref.android introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Ref.android",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Android.Ref.31 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Android.Ref.31",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Android.Runtime.31.android-arm introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Android.Runtime.31.android-arm",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Runtime.android introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Runtime.android",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.App.Runtime.linux-arm64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-arm64",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.App.Runtime.linux-x64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Runtime.ios introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.ios",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Ref.ios introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Ref.ios",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Ref.ios introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Ref.ios",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.iOS.Ref introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.iOS.Ref",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Ref.ios introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Ref.ios",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Runtime.ios introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Runtime.ios",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.iOS.Runtime.iossimulator-x64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.iOS.Runtime.iossimulator-x64",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Runtime.ios introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Runtime.ios",
+      "targetGraphs": [
+        "net6.0-ios16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Ref.maccatalyst introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Ref.maccatalyst",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.MacCatalyst.Runtime.maccatalyst-x64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.MacCatalyst.Runtime.maccatalyst-x64",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Ref.maccatalyst introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Ref.maccatalyst",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.MacCatalyst.Ref introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.MacCatalyst.Ref",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Runtime.maccatalyst introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Runtime.maccatalyst",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Runtime.maccatalyst introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.maccatalyst",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Ref.maccatalyst introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Ref.maccatalyst",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Runtime.maccatalyst introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Runtime.maccatalyst",
+      "targetGraphs": [
+        "net6.0-maccatalyst16.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Ref.win introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Ref.win",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Runtime.win introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Runtime.win",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Windows.SDK.NET.Ref introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Windows.SDK.NET.Ref",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.App.Runtime.win-x64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Ref.win introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Ref.win",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Core.Ref.win introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Core.Ref.win",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Essentials.Runtime.win introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Essentials.Runtime.win",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.WindowsDesktop.App.Runtime.win-x64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.NETCore.App.Runtime.win-x64 introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.Maui.Controls.Runtime.win introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.win",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    }
+  ]
+}
